@@ -26,3 +26,9 @@ This project builds a classification model to identify fraudulent transactions i
 - Dataset source (if known, please add)
 - The scikit-learn team for providing easy-to-use machine learning tools
 - Plotly for interactive visualizations
+
+## 🙏 Acknowledgements
+
+- Dataset source (Kaggle)
+- The scikit-learn team for providing easy-to-use machine learning tools
+- Plotly for interactive visualizations
